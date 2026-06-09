@@ -1,2 +1,2 @@
 import MainContent from "./ui/ui";
-export default MainContent
+export {MainContent}
