@@ -39,6 +39,8 @@ pnpm dev
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+[Demo](https://maket-vpn.vercel.app/)
+
 ## Adding Components
 
 To add new shadcn/ui components to your app:
